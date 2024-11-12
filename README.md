@@ -9,3 +9,10 @@ This repository contains a garbage classification system using a multimodal appr
   - Data_analysis.ipynb: Used for exploratory data analysis (EDA) and testing predictions, featuring figures, tables, and explanations.
     
 Additionally, the Home/dataset/results directory stores a JSON file with testing metrics.
+
+
+
+Workflow of the training model
+
+![image](https://github.com/user-attachments/assets/38b645e7-0067-4ded-a2d3-ab6d8a2e978a)
+
